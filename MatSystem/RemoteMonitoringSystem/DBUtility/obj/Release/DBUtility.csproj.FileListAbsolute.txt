@@ -1,4 +1,0 @@
-D:\上位机程序\MatSystem\RemoteMonitoringSystem\DBUtility\bin\Release\.DBUtility.dll
-D:\上位机程序\MatSystem\RemoteMonitoringSystem\DBUtility\bin\Release\MySql.Data.dll
-D:\上位机程序\MatSystem\RemoteMonitoringSystem\DBUtility\obj\Release\ResolveAssemblyReference.cache
-D:\上位机程序\MatSystem\RemoteMonitoringSystem\DBUtility\obj\Release\.DBUtility.dll
