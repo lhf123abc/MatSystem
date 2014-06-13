@@ -1,0 +1,3 @@
+D:\上位机程序\MatSystem\RemoteMonitoringSystem\Model\bin\Release\.Model.dll
+D:\上位机程序\MatSystem\RemoteMonitoringSystem\Model\obj\Release\ResolveAssemblyReference.cache
+D:\上位机程序\MatSystem\RemoteMonitoringSystem\Model\obj\Release\.Model.dll

@@ -1,0 +1,7 @@
+D:\上位机程序\MatSystem\RemoteMonitoringSystem\DAL\bin\Release\.DAL.dll
+D:\上位机程序\MatSystem\RemoteMonitoringSystem\DAL\bin\Release\.DBUtility.dll
+D:\上位机程序\MatSystem\RemoteMonitoringSystem\DAL\bin\Release\.Model.dll
+D:\上位机程序\MatSystem\RemoteMonitoringSystem\DAL\bin\Release\Maticsoft.Common.dll
+D:\上位机程序\MatSystem\RemoteMonitoringSystem\DAL\bin\Release\MySql.Data.dll
+D:\上位机程序\MatSystem\RemoteMonitoringSystem\DAL\obj\Release\ResolveAssemblyReference.cache
+D:\上位机程序\MatSystem\RemoteMonitoringSystem\DAL\obj\Release\.DAL.dll
